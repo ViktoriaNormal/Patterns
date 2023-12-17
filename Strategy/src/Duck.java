@@ -14,7 +14,7 @@ public abstract class Duck {
         quackBehavior = new QuackNoQuack();
     }
 
-    protected void setFly(FlyBehavior flyType) {
+    protected void setFlyBehavior(FlyBehavior flyType) {
         flyBehavior = flyType;
     }
 

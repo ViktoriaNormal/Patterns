@@ -8,7 +8,7 @@ public class Main {
 
         DuckSaxon duckSaxon = new DuckSaxon();
         duckSaxon.display();
-        duckSaxon.setFly(new FlyOnWings());
+        duckSaxon.setFlyBehavior(new FlyOnWings());
         duckSaxon.display();
 
         DuckRubber duckRubber = new DuckRubber();
@@ -18,7 +18,7 @@ public class Main {
 
         DecoyDuck duckDecoy = new DecoyDuck();
         duckDecoy.display();
-        duckDecoy.setFly(new FlyRocket());
+        duckDecoy.setFlyBehavior(new FlyRocket());
         duckDecoy.display();
 
         DuckRed duckRed = new DuckRed();

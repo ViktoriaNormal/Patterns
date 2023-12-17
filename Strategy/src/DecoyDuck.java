@@ -5,7 +5,7 @@ public class DecoyDuck extends Duck {
 
     public DecoyDuck() {
         super("Утка-приманка");
-        setFly(new FlyThrow());
+        setFlyBehavior(new FlyThrow());
         setQuackBehavior(new QuackLoad());
     }
 }

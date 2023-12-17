@@ -5,7 +5,7 @@ public class DuckRed extends Duck {
 
     public DuckRed() {
         super("Красноголовая утка");
-        setFly(new FlyOnWings());
+        setFlyBehavior(new FlyOnWings());
         setQuackBehavior(new QuackNoQuack());
     }
 }

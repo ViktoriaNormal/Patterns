@@ -7,15 +7,10 @@ public abstract class Topping extends Product {
     }
 
     public String getDescription(){
-
         return drink.getDescription() + description;
     }
 
     public int getPrice(){
         return price + drink.getPrice();
-    }
-
-    public void setDrink(Product drink){
-        this.drink = drink;
     }
 }

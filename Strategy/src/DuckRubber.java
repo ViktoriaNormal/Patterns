@@ -4,7 +4,7 @@ import quack.QuackNoQuack;
 public class DuckRubber extends Duck {
     public DuckRubber() {
         super("Резиновая утка");
-        setFly(new FlyNoFly());
+        setFlyBehavior(new FlyNoFly());
         setQuackBehavior(new QuackNoQuack());
     }
 }
