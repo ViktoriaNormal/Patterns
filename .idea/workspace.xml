@@ -1,74 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3e20e481-6413-4be0-b394-8cae3b6a90f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterAndFacade/AdapterAndFacade.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterAndFacade/src/AdapterOfSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterAndFacade/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterAndFacade/src/models/DVDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterAndFacade/src/models/HomeTheaterSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterAndFacade/src/models/Lights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterAndFacade/src/models/Projector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterAndFacade/src/models/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterAndFacade/src/models/StreetTheaterSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdapterAndFacade/src/models/SurroundSoundSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/Command.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/commands/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/commands/HumidityCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/commands/LightCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/commands/TempCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/sensors/HumiditySensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/sensors/LightSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/sensors/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Command/src/sensors/TempSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/Factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/base/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/base/Juice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/base/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/decorator/Additive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/decorator/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/decorator/CoconutMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/decorator/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/decorator/PriceList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/decorator/SoyMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/drinks/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/drinks/FactoryOfCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/drinks/FactoryOfDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/drinks/FactoryOfJuice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/drinks/FactoryOfTea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/mainIngredient/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/mainIngredient/Fruits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/mainIngredient/MainIngredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/mainIngredient/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/topping/Alco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/topping/Cream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/topping/Syrup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/topping/Topping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/topping/WithoutTopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/volume/BigVol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/volume/FactoryOfBigVol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/volume/FactoryOfMediumVol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/volume/FactoryOfSmallVol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/volume/FactoryOfVolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/volume/MediumVol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/volume/SmallVol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/volume/Volume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IteratorLinker/lab8_patterns/lab8_patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Linker/Iterator_Linker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Linker/src/CoffeeMenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Linker/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Linker/src/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Linker/src/MenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Linker/src/MenuIteratorList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Linker/src/MenuIteratorVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator_Linker/src/PizzaMenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/Template_Method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/addOn/AddOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/addOn/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/BeverageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/CappuccinoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Choco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/EspressoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/FlavoringDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Fresh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/FreshFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Mocktail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/MocktailFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Raf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/RafFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/TeaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/beverage/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/orderProcessor/CoffeeOrderProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/orderProcessor/OrderProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/recipe/HotCoffeeWithMilkRecipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_Method/src/recipe/Recipe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator/src/Topping.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/src/Topping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/DecoyDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/DecoyDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/DuckRed.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/DuckRed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/DuckRubber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/DuckRubber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/DuckSaxon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/DuckSaxon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strategy/src/fly/FlyNoFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/src/fly/FlyNoFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory/src/topping/Alco.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/topping/Alco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory/src/volume/Volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/volume/Volume.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,21 +65,55 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ZLgXNHK0g5wF33DHrzXInIWRgT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Виктория/OneDrive/Рабочий стол/Учёба/Patterns",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Iterator_Linker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-3183f394aec4-f0552fc0" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -111,8 +122,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702206813359</updated>
+      <workItem from="1702905544742" duration="6974000" />
+      <workItem from="1703074719605" duration="189000" />
+      <workItem from="1703330158568" duration="6375000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

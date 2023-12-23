@@ -6,3 +6,4 @@ public interface Volume {
 
     String getSize();
 }
+

@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public class MenuItem {
+public interface MenuItem {
+
+    String getName();
+
+    double getPrice();
+
+    boolean isVegetarian();
+
+    void print();
 }

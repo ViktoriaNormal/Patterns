@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class MenuIterator {
+public interface MenuIterator {
+
+    boolean hasNext();
+
+    MenuItem next();
+
+    void removeLast();
 }

@@ -4,7 +4,7 @@ public class Alco implements Topping{
 
     @Override
     public String getName() {
-        return "Топпинг: алкогольный напиток";
+        return "Топпинг: алкоголь";
     }
 
     @Override
